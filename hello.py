@@ -1,0 +1,1 @@
+print("Hello, World! My name is Muhammad Ekhsan Fitri Bin Zamrus, and I am a software developer in training.")
